@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2017\Projects\DZ_F\DZ_F\bin\Debug\DZ_F.exe.config
+c:\users\user\documents\visual studio 2017\Projects\DZ_F\DZ_F\bin\Debug\DZ_F.XML
+c:\users\user\documents\visual studio 2017\Projects\DZ_F\DZ_F\bin\Debug\DZ_F.exe
+c:\users\user\documents\visual studio 2017\Projects\DZ_F\DZ_F\bin\Debug\DZ_F.pdb
+c:\users\user\documents\visual studio 2017\Projects\DZ_F\DZ_F\bin\Debug\FSharp.Core.dll
+c:\users\user\documents\visual studio 2017\Projects\DZ_F\DZ_F\bin\Debug\System.ValueTuple.dll
+c:\users\user\documents\visual studio 2017\Projects\DZ_F\DZ_F\bin\Debug\FSharp.Core.xml
+c:\users\user\documents\visual studio 2017\Projects\DZ_F\DZ_F\bin\Debug\ru\FSharp.Core.resources.dll
+c:\users\user\documents\visual studio 2017\Projects\DZ_F\DZ_F\obj\Debug\DZ_F.exe
+c:\users\user\documents\visual studio 2017\Projects\DZ_F\DZ_F\obj\Debug\DZ_F.pdb
